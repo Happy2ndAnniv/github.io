@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Special+Elite');
+
+/* p {
+    padding: 2rem;
+    font-size: 1.5rem;
+    letter-spacing: 0.1rem;
+    font-family: 'Special Elite', cursive;
+    border-radius: 13px;
+    background-color: rgba(53, 53, 53, 0.308);
+    color:white;
+  } */
+
+#typedtext
+{
+  font-family: 'Special Elite', cursive;
+  margin: 10px 50px; 
+  letter-spacing: 0.1rem; 
+  border-radius: 13px;
+  background-color: rgba(53, 53, 53, 0.308);
+  color:white;
+  font-size: 1.1rem;
+  padding: 2rem;
+  line-height: 1.8;
+}
+
+body
+{
+    background: url('../img/background.jpeg') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover; 
+}
+
+
