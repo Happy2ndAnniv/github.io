@@ -16,9 +16,8 @@ var aText = new Array(
 
   "",
 
-  "Sa lahat ng mga problema mo, pag woworry mo, at pag ka inis mo, tandaan mo na andito ako sayo lagi mong maasahan at ka rant buddy mo sa mga ganung bagay. Sa lahat ng mga kasamahan mo pati narin minsan tampuhan sa ibang tao, magsabi ka lang at tandaan mo na makikinig at nakikinig ako. Kahit na murahin mo nang sobrang sobra sa inis at sukdulan ang galit mo sa taong yun, tandaan mo na andito pa rin ako makikigalit din sa'yo hehehe. Pero tandaan mo na, wag ka  magpadala sa galit at inis mo ha, sabi nga nila, kung sino yung  nagpapakumbaba ay siya ang itinataas. Hayaan mo sila na magalit at mainis sayo, hayaan mo sila na may masabi sayo. Pero tatandaan mo na wala kang ginawang masama. Ginawa mo ang nakakabuti at ginawa mo ang lahat. Kaya ikaw, chill ka lang lagi wag hanap ng away aba  (lalo na sa akin hehehe joke lang). Sa lahat ng bagay, tandaan mo na hindi ako mawawala at lagi sa'yong nakasuporta sa lahat ng anumang bagay. ",
 
-  "",
+  "Sa lahat ng mga problema mo, pag woworry mo, at pag ka inis mo, tandaan mo na andito ako sayo lagi mong maasahan at ka rant buddy mo sa mga ganung bagay. Sa lahat ng mga kasamahan mo pati narin minsan tampuhan sa ibang tao, magsabi ka lang at tandaan mo na makikinig at nakikinig ako. Lagi mo kong kasama sa mga laban mo sa buhay, at hinding hindi ka nag iisa. Pero tandaan mo na, wag ka  magpadala sa galit at inis mo ha, sabi nga nila, kung sino yung  nagpapakumbaba ay siya ang itinataas. Kaya ikaw, chill ka lang lagi ha. Sa lahat ng bagay, tandaan mo na hindi ako mawawala at lagi sa'yong nakasuporta sa lahat ng anumang bagay",
 
   "",
 
