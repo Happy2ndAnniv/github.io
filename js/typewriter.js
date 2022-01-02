@@ -4,7 +4,7 @@ var aText = new Array(
 
   " ",
 
-  "Happy 2nd Anniversary beb ko, I love you so much <3. Grabe nga naman at ang bilis ng panahon talaga na eto tayo pinagtagpo para sa isa't-isa. Mula sa yayaan ng sine hanggang napunta sa ikalawang anibersaryo ng pagmamahalan natin.  Hindi lang ikalawang, kundi hindi mabilang na pagmamahal natin sa isa't-isa",
+  "Happy 2nd Anniversary beb ko, I love you so much <3. Grabe nga naman at ang bilis ng panahon talaga na eto tayo pinagtagpo para sa isa't-isa. Mula sa yayaan ng sine hanggang napunta sa ikalawang anibersaryo ng pagmamahalan natin.  Hindi lang ikalawa, kundi hindi mabilang na pagmamahal natin sa isa't-isa",
 
   "",
 
